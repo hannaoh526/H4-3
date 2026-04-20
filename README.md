@@ -7,6 +7,10 @@ This repository contains my HW 4.3 work.
 - PDF submission
 - QMD file
 
+## Contents (Files) Description
+- HW4_3.pdf: Final submitted report
+- HW4_3.qmd: Source file used to generate the report
+
 ## Plan
 The goal of this repository is to document both the completion of HW 4.3 and the use of GitHub version control tools.
 

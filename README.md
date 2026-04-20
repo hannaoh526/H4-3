@@ -8,7 +8,8 @@ This repository contains my HW 4.3 work.
 - QMD file
 
 ## Plan
-- Create repository
-- Use branches
-- Track progress using Issues
-- Use commits and pull requests
+1. Create a repository and initialize files
+2. Use branches for development
+3. Track progress using Issues
+4. Commit changes regularly
+5. Merge work using Pull Requests

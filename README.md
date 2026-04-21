@@ -7,7 +7,7 @@ This repository contains my HW 4.3 work.
 - PDF submission
 - QMD file
 
-## Contents (Files) Description
+## Contents Description
 - HW4_3.pdf: Final submitted report
 - HW4_3.qmd: Source file used to generate the report
 
